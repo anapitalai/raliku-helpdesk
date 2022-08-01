@@ -42,3 +42,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+##added by SLY
+
+Adding email verification, the changes made
+1. add a verfied field to the user model
+2. add another verification model
+3. install uuid and nodemailer
+4. create the send email route using nodemailer
+5. use a valid email account, make sure unsecure under google account settings---security--enable less secure apps
